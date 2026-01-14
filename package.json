@@ -22,9 +22,6 @@
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "directories": {
-        "test": "tests"
-    },
     "jest": {
         "testEnvironment": "node"
     }
